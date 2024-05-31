@@ -21,5 +21,20 @@
     "noFallthroughCasesInSwitch": true
   },
   "include": ["src"],
+  "exclude": ["node_modules", "**/*.spec.ts"],
+  "resolveJsonModule": true,
+  "esModuleInterop": true,
+  "allowSyntheticDefaultImports": true,
+  "module": "commonjs",
+  "target": "es6",
+  "outDir": "./dist",
+  "rootDir": "./src",
+  "moduleResolution": "node",
+  "skipLibCheck": true,
+  "strict": true,
+  "typeRoots": [
+    "./node_modules/@types",
+    "./src/types"
+  ],
   "references": [{ "path": "./tsconfig.node.json" }]
 }

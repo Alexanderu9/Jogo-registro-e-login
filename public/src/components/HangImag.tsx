@@ -1,13 +1,14 @@
-import image0 from '../assetes/0.png'
-import image1 from '../assetes/1.png'
-import image2 from '../assetes/2.png'
-import image3 from '../assetes/3.png'
-import image4 from '../assetes/4.png'
-import image5 from '../assetes/5.png'
-import image6 from '../assetes/6.png'
-import image7 from '../assetes/7.png'
-import image8 from '../assetes/8.png'
-import image9 from '../assetes/9.png'
+import image0 from '../assets/0.png';
+import image1 from '../assets/1.png';
+import image2 from '../assets/2.png';
+import image3 from '../assets/3.png';
+import image4 from '../assets/4.png';
+import image5 from '../assets/5.png';
+import image6 from '../assets/6.png';
+import image7 from '../assets/7.png';
+import image8 from '../assets/8.png';
+import image9 from '../assets/9.png';
+
 
 const images: string[] = [
   image0,

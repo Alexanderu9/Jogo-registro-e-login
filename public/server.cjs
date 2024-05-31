@@ -16,7 +16,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 
 // Conectar a MongoDB Atlas
-const uri = "mongodb+srv://xxxxxxxx:xxxxxxxxx@xxxxxxxxx.nxxxxxxc.mongodb.net/?retryWrites=true&w=majority&appName=Cxxxxxxx0";
+const uri = "mongodb+srv://alexanderu7aug:1234567895831@cluster0.ngq8kbc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
 mongoose.connect(uri, {
   useNewUrlParser: true,
