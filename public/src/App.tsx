@@ -83,7 +83,7 @@ function App() {
       <button onClick={newGame}>Novo jogo?</button>
       <div>
         <button>
-<a href="public/index.html" id='Registro'>Registro</a>
+<a href="https://proyectojuegonuevo.netlify.app/public/index.html" id='Registro'>Registro</a>
 </button>
 </div>
     </div>
